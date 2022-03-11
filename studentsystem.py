@@ -1,7 +1,7 @@
 # 公   司：峦锘科技
 # 作   者：潘浩
 # 创建时间：2022/3/9 17:28
-# 备   注：无
+# 备   注：学生管理简单系统
 studentsFileName = 'studentsFile.txt'
 def main():
     while True:
